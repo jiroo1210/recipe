@@ -12,5 +12,7 @@ Below is an empty list
 3.
 4.
 
+![Serving Suggestion](recipe.jpg "Serving suggestion")
+
 ### This is a REMOTE change :O
 
